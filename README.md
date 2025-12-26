@@ -21,10 +21,11 @@ hateoflux is a lightweight, reactive-first Java library designed to streamline t
 <br>
 <p align=center>
 <a href="https://github.com/kamillionlabs/hateoflux#getting-started">Getting Started</a> | 
-<a href="https://hateoflux.kamillionlabs.de/docs/cookbook.html">Cookbook</a> | 
+<a href="https://hateoflux.kamillionlabs.de/docs/cookbook">Cookbook</a> | 
 <a href="https://hateoflux.kamillionlabs.de">Documentation</a> | 
 <a href="https://github.com/kamillionlabs/hateoflux-demos">Demos</a>
 </p>
+
 
 
 ## Table of Contents
@@ -263,4 +264,5 @@ This project is licensed under the [Apache License 2.0](/LICENSE). The Apache 2.
 ## Contact
 
 If you have any questions, suggestions, or need support, please feel free to open a [discussion](https://github.com/kamillionlabs/hateoflux/discussions), submit an [issue](https://github.com/kamillionlabs/hateoflux/issues), or email us directly at [contact@kamillionlabs.de](mailto:contact@kamillionlabs.de).
+
 
