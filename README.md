@@ -21,8 +21,8 @@ hateoflux is a lightweight, reactive-first Java library designed to streamline t
 <br>
 <p align=center>
 <a href="https://github.com/kamillionlabs/hateoflux#getting-started">Getting Started</a> | 
-<a href="https://hateoflux.kamillionlabs.de/docs/cookbook">Cookbook</a> | 
-<a href="https://hateoflux.kamillionlabs.de">Documentation</a> | 
+<a href="https://kamillionlabs.github.io/hateoflux-documentation/docs/cookbook">Cookbook</a> | 
+<a href="https://kamillionlabs.github.io/hateoflux-documentation/">Documentation</a> | 
 <a href="https://github.com/kamillionlabs/hateoflux-demos">Demos</a>
 </p>
 
@@ -216,17 +216,17 @@ Link userLink = linkTo(UserController.class, controller -> controller.getUser("1
 ### Demos
 Explore practical examples and debug them in the [hateoflux-demos](https://github.com/kamillionlabs/hateoflux-demos) repository. Fork the repository and run the applications to see hateoflux in action.
 ### Cookbook
-Refer to the [Cookbook: Examples & Use Cases](https://hateoflux.kamillionlabs.de/cookbook/cookbook.html) for detailed and explained scenarios and code snippets demonstrating various functionalities of hateoflux.
+Refer to the [Cookbook: Examples & Use Cases](https://kamillionlabs.github.io/hateoflux-documentation/cookbook/cookbook.html) for detailed and explained scenarios and code snippets demonstrating various functionalities of hateoflux.
 
 ## Documentation
-Comprehensive documentation is available at [https://hateoflux.kamillionlabs.de (english)](https://hateoflux.kamillionlabs.de), covering:
-- [What is hateoflux?](https://hateoflux.kamillionlabs.de/)
-- [Representation Model](https://hateoflux.kamillionlabs.de/docs/core-concepts/representation-model.html)
-- [Response Types](https://hateoflux.kamillionlabs.de/docs/core-concepts/response-handling.html)
-- [Link Building](https://hateoflux.kamillionlabs.de/docs/core-concepts/linkbuilding.html)
-- [Assemblers](https://hateoflux.kamillionlabs.de/docs/core-concepts/assemblers.html)
-- [Spring HATEOAS vs. hateoflux](https://hateoflux.kamillionlabs.de/docs/spring-vs-hateoflux.html)
-- [Cookbook: Examples & Use Cases](https://hateoflux.kamillionlabs.de/docs/cookbook/)
+Comprehensive documentation is available at [https://kamillionlabs.github.io/hateoflux-documentation/](https://kamillionlabs.github.io/hateoflux-documentation/), covering:
+- [What is hateoflux?](https://kamillionlabs.github.io/hateoflux-documentation/)
+- [Representation Model](https://kamillionlabs.github.io/hateoflux-documentation/docs/core-concepts/representation-model.html)
+- [Response Types](https://kamillionlabs.github.io/hateoflux-documentation/docs/core-concepts/response-handling.html)
+- [Link Building](https://kamillionlabs.github.io/hateoflux-documentation/docs/core-concepts/linkbuilding.html)
+- [Assemblers](https://kamillionlabs.github.io/hateoflux-documentation/docs/core-concepts/assemblers.html)
+- [Spring HATEOAS vs. hateoflux](https://kamillionlabs.github.io/hateoflux-documentation/docs/spring-vs-hateoflux.html)
+- [Cookbook: Examples & Use Cases](https://kamillionlabs.github.io/hateoflux-documentation/docs/cookbook/)
 
 ## Comparison with Spring HATEOAS
 hateoflux is specifically designed for reactive Spring WebFlux applications, offering a more streamlined and maintainable approach compared to Spring HATEOAS in reactive environments. Key differences include:
@@ -241,7 +241,7 @@ hateoflux is specifically designed for reactive Spring WebFlux applications, off
 | **Media Types**                | Supports multiple media types (HAL, Collection+JSON, etc.).                                                              | Only supports HAL+JSON for simplicity and performance.                                    |
 | **Affordance & CURIE Support** | Supports affordances and CURIEs.                                                                                         | Does not support affordances or CURIEs.                                                   |
 
-For a detailed comparison, refer to the [Spring HATEOAS vs. hateoflux](https://hateoflux.kamillionlabs.de/docs/spring-vs-hateoflux.html) documentation.
+For a detailed comparison, refer to the [Spring HATEOAS vs. hateoflux](https://kamillionlabs.github.io/hateoflux-documentation/docs/spring-vs-hateoflux.html) documentation.
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
